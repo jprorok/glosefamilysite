@@ -6,12 +6,8 @@
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("..images/family.jpg");
   
-  /* (https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500")
-  
-  https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2014/11/21/dc-comics-batman-logo_0.jpg");*/
-
   /* Set a specific height*/
-  height: 34%;
+  height: 100%;
 
   /* Position and center the image to scale nicely on all screens*/
   background-position: center;
