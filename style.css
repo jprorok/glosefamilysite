@@ -5,7 +5,7 @@
 .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image. This will make the text easier to read */
   background-image: url("images/family.jpg");
-  background-color: blue;
+  background-color: #ffbb99;
   
   /* Set a specific height*/
   height: 25%;
