@@ -114,7 +114,7 @@ body {
 .main {
   flex: 70%;
   padding: 20px;
-  background-image: radial-gradient(#6fb98f, #7da3a1);
+  background-image: radial-gradient(#ffd4be, #d88961);
 }
 
 .box {
