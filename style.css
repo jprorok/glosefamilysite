@@ -118,6 +118,12 @@ body {
   background-image: radial-gradient(#ffd4be, #d88961);
 }
 
+.index_main {
+  flex: 100%;
+  padding: 20px;
+  background-image: radial-gradient(#ffd4be, #d88961);
+}
+
 .box {
   text-align: center; 
 }
