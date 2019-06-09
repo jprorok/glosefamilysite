@@ -119,7 +119,7 @@ body {
 }
 
 .index_main {
-  flex: 100%;
+  flex: 70%;
   padding: 20px;
   background-image: radial-gradient(#ffd4be, #d88961);
 }
