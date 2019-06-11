@@ -112,8 +112,7 @@ body {
 
 /* Main column */
 .main {
-  flex: 700%;
-  height: 100%;
+  flex: 70%;
   padding: 20px;
   background-image: radial-gradient(#ffd4be, #d88961);
 }
