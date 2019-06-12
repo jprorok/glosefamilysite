@@ -17,6 +17,16 @@
   position: relative;
 }
 
+.table, th, td {
+  border: 1px solid black;
+  
+}
+
+.table, th, tr {
+  width: 33%;
+  height: 10px;
+}
+
 /* Place text in the middle of the image */
 .hero-text {
   text-align: center;
