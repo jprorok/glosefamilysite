@@ -17,9 +17,13 @@
   position: relative;
 }
 
-.table, th, td {
+.table, td {
   border: 1px solid black;
   
+}
+
+.table {
+  width = 200px;
 }
 
 .table, th, tr {
