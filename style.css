@@ -23,11 +23,10 @@
 }
 
 .table {
-  width = 200px;
+  width = 100%;
 }
 
 .table, th, tr {
-  width: 33%;
   height: 10px;
 }
 
