@@ -118,15 +118,14 @@ body {
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
-  flex: 30%;
-  height: 100%;	
+  flex: 0 1 auto;
   background-color: #f1f1f1;
   padding: 20px;
 }
 
 /* Main column */
 .main {
-  flex: 70%;
+  flex: 70;
   height: 100%;
   padding: 20px;
   background-image: radial-gradient(#ffd4be, #d88961);
