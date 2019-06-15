@@ -99,6 +99,7 @@ body {
 /* Column container */
 .row {  
   display: flex;
+  flex: 1;
   flex-wrap: wrap;
 }
 
