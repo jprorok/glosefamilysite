@@ -133,6 +133,11 @@ body {
   background-image: radial-gradient(#ffd4be, #d88961);
 }
 
+.vid {
+   float: left;
+   margin-right: 5px;
+}
+
 .index_main {
   flex: 70%;
   padding: 20px;
